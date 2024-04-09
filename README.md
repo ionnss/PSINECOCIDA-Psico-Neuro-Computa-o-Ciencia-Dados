@@ -26,6 +26,9 @@ Vou disponibilizara alguns materiais teóricos sobre neurociência. Não acredit
 - [Cem Bilhões de Neurônios, LENT, R.](https://drive.google.com/file/d/1qdIGzEuPfyPYUGri3Oc88XI_k1wpOqkQ/view?usp=sharing)
 
 ## Outras Referências
+### SCHOLARPEDIA - peer-reviewed open-access encyclopedia
+- [Enciclopédia Neurociência Computacional](http://www.scholarpedia.org/article/Encyclopedia_of_computational_neuroscience)
+
 ### Curso USP
 Um curso da USP [_5915756 - Introdução à Neurociência Computacional_](https://edisciplinas.usp.br/pluginfile.php/7684114/mod_resource/content/1/Roteiro%20-%20Introduc%CC%A7a%CC%83o%20a%CC%80%20Neurocie%CC%82ncia%20Computacional%202023.pdf) ministrado por [**Antônio C. Roque**](antonior@usp.br) disponibilizou no roteiro algumas referências bem interessantes. Estão logo abaixo 👇
 
@@ -33,8 +36,7 @@ Um curso da USP [_5915756 - Introdução à Neurociência Computacional_](https:
 - Miller, P., An Introductory Course in Computational Neuroscience. MIT Press, Cambridge, MA, USA, 2018. Códigos para as figuras e tutoriais do livro disponíveis em: http://people.brandeis.edu/~pmiller/TEXTBOOK/.
 
 - Gerstner, W., Kistler, W. M., Naud, R., and Paninski, L., Neuronal Dynamics: from single
-neurons to networks and models of cognition. Cambridge University Press, Cambridge, UK,
-2014. Disponível em: https://neuronaldynamics.epfl.ch/.
+neurons to networks and models of cognition. Cambridge University Press, Cambridge, UK, 2014. Disponível em: https://neuronaldynamics.epfl.ch/.
 
 - Dayan, P. and Abbott, L.F., Theoretical Neuroscience: Computational and Mathematical Modeling
 of Neural Systems. MIT Press, Cambridge, MA, USA, 2001. Disponível em: http://www.gatsby.ucl.ac.uk/~lmate/biblio/dayanabbott.pdf.
