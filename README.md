@@ -3,13 +3,13 @@
 Repositório de coleção de recursos para área de Psicologia e/ou Neurociência Computacional e Ciência de Dados
 
 ## 🟡 BACKGROUND
-### ➗➕ 🟰 Matemática
+### Matemática
 É sugerido possuir conhecimento básico em **álgebra linear**, **cálculo** e **teoria da probabilidade**. Isso inclui a compreensão de equações simples envolvendo vetores e matrizes, a habilidade de diferenciar funções simples e o entendimento de distribuições de probabilidade. Para revisar esses temas, recomendamos acessar as seções do site Khanacademy.org de:
 - [Álgebra Linear](https://www.khanacademy.org/math/linear-algebra)
 - [Cálculo](https://www.khanacademy.org/math/differential-calculus)
 - [Probabilidade](https://www.khanacademy.org/math/probability)
 
-### 💻 Programação 
+### Programação 
 É sugerido possuir conhecimento básico e alguma familiaridade com:
 - R 
 - Python 
@@ -22,19 +22,21 @@ Repositório de coleção de recursos para área de Psicologia e/ou Neurociênci
 
 Recomendo os cursos da [DataCamp](https://app.datacamp.com/learn/courses/intro-to-python-for-data-science) e [Codecademy](https://www.codecademy.com/learn/learn-intermediate-python-3)
 
-### 🧠 Neurociência
+### Neurociência
 Vou disponibilizara alguns materiais teóricos sobre neurociência. Não acredito que seja necessário para iniciar, mas em caso de extrema curiosidade e ânsia de aprendizagem, TOMA AQUI:
 - [Cem Bilhões de Neurônios, LENT, R.](https://drive.google.com/file/d/1qdIGzEuPfyPYUGri3Oc88XI_k1wpOqkQ/view?usp=sharing)
 
-## 🟡 OUTRAS REFERÊNCIAS
-### 📚 Livros
+## 🟡 LIVROS
+- EM BREVE
 
-### 📖 SCHOLARPEDIA - peer-reviewed open-access encyclopedia
-- [Enciclopédia Neurociência Computacional](http://www.scholarpedia.org/article/Encyclopedia_of_computational_neuroscience)
-
-### 📂 Repositórios
+## 🟡 REPOSITÓRIOS
 - [Open Computational Neuroscience Resources](https://github.com/ionnss/open-computational-neuroscience-resources)
 
+
+## 🟡 SCHOLARPEDIAS
+- SCHOLARPEDIA | peer-reviewed open-access encyclopedia [Enciclopédia Neurociência Computacional](http://www.scholarpedia.org/article/Encyclopedia_of_computational_neuroscience)
+
+## 🟡 OUTRAS REFERÊNCIAS
 ### 📃 Curso USP
 Um curso da USP [_5915756 - Introdução à Neurociência Computacional_](https://edisciplinas.usp.br/pluginfile.php/7684114/mod_resource/content/1/Roteiro%20-%20Introduc%CC%A7a%CC%83o%20a%CC%80%20Neurocie%CC%82ncia%20Computacional%202023.pdf) ministrado por [**Antônio C. Roque**](antonior@usp.br) disponibilizou no roteiro algumas referências bem interessantes. Estão logo abaixo 👇
 
