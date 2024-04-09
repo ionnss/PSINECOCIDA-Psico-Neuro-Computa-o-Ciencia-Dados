@@ -64,26 +64,26 @@ Um curso da USP [_5915756 - Introdução à Neurociência Computacional_](https:
   Alegre-RS, 2010.
   
   #### Material de apoio na Web: 
-  - Encyclopedia of Computational Neuroscience http://www.scholarpedia.org/article/Encyclopedia_of_computational_neuroscience.
+  - [Encyclopedia of Computational Neuroscience](http://www.scholarpedia.org/article/Encyclopedia_of_computational_neuroscience)
   
-  - Página do neuro-simulador NEURON http://www.neuron.yale.edu/neuron/.
+  - [Página do neuro-simulador NEURON](http://www.neuron.yale.edu/neuron/)
   
-  - Página do neuro-simulador GENESIS http://genesis-sim.org/.
+  - [Página do neuro-simulador GENESIS](http://genesis-sim.org/)
   
-  - Versão grátis na internet do livro The Book of GENESIS http://www.genesissim.org/GENESIS/bog/bog.html.
+  - [Versão grátis na internet do livro The Book of GENESIS](http://www.genesis-sim.org/GENESIS/bog/bog.html)
   
-  - Página do neuro-simulador NEST https://www.nest-simulator.org/.3/45915756 
+  - [Página do neuro-simulador NEST](https://www.nest-simulator.org/)
   
-  - Página do neuro-simulador BRIAN http://briansimulator.org.
+  - [Página do neuro-simulador BRIAN](http://briansimulator.org/)
   
-  - Computational Neuroscience on the Web https://compneuroweb.com/.
+  - [Computational Neuroscience on the Web](https://compneuroweb.com/)
   
-  - Open Source Brain http://www.opensourcebrain.org.x
+  - [Open Source Brain](http://www.opensourcebrain.org)
   
-  - Frontiers in Computational Neuroscience http://journal.frontiersin.org/journal/computational-neuroscience.
+  - [Frontiers in Computational Neuroscience](http://journal.frontiersin.org/journal/computational-neuroscience)
   
-  - Journal of Computational Neuroscience https://www.springer.com/journal/10827.
+  - [Journal of Computational Neuroscience](https://www.springer.com/journal/10827)
 
-  - ModelDB https://senselab.med.yale.edu/ModelDB/.
+  - [ModelDB](https://senselab.med.yale.edu/ModelDB/)
 
-  - Organization for Computational Neuroscience http://www.cnsorg.org.
+  - [Organization for Computational Neuroscience](http://www.cnsorg.org)
