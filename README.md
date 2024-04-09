@@ -28,17 +28,14 @@ Vou disponibilizara alguns materiais teóricos sobre neurociência. Não acredit
 
 ## 🟡 LIVROS
 - EM BREVE
-
 ## 🟡 REPOSITÓRIOS
 - [Open Computational Neuroscience Resources](https://github.com/ionnss/open-computational-neuroscience-resources)
-
-
 ## 🟡 SCHOLARPEDIAS
 - SCHOLARPEDIA | peer-reviewed open-access encyclopedia [Enciclopédia Neurociência Computacional](http://www.scholarpedia.org/article/Encyclopedia_of_computational_neuroscience)
+## 🟡 CURSOS
+- [Neuromatch Academy | computational neuroscience course](https://compneuro.neuromatch.io/prereqs/ComputationalNeuroscience.html)
 
-## 🟡 OUTRAS REFERÊNCIAS
-### 📃 Curso USP
-Um curso da USP [_5915756 - Introdução à Neurociência Computacional_](https://edisciplinas.usp.br/pluginfile.php/7684114/mod_resource/content/1/Roteiro%20-%20Introduc%CC%A7a%CC%83o%20a%CC%80%20Neurocie%CC%82ncia%20Computacional%202023.pdf) ministrado por [**Antônio C. Roque**](antonior@usp.br) disponibilizou no roteiro algumas referências bem interessantes. Estão logo abaixo 👇
+- Um curso da USP [_5915756 - Introdução à Neurociência Computacional_](https://edisciplinas.usp.br/pluginfile.php/7684114/mod_resource/content/1/Roteiro%20-%20Introduc%CC%A7a%CC%83o%20a%CC%80%20Neurocie%CC%82ncia%20Computacional%202023.pdf) ministrado por [**Antônio C. Roque**](antonior@usp.br) disponibilizou no roteiro algumas referências bem interessantes. Estão logo abaixo 👇
 
   #### Bibliografia
   - Miller, P., An Introductory Course in Computational Neuroscience. MIT Press, Cambridge, MA, USA, 2018. Códigos para as figuras e tutoriais do livro disponíveis em: http://people.brandeis.edu/~pmiller/TEXTBOOK/.
