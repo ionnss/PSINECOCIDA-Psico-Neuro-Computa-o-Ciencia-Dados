@@ -1,4 +1,5 @@
-# Psico-Neuro-Comput-Ciencia-Dados-PSINECOCIDA
+# PSINECOCIDA Psico-Neuro-Computação-Ciencia-Dados
+
 Repositório de coleção de recursos para área de Psicologia e/ou Neurociência Computacional e Ciência de Dados
 
 ## Background
