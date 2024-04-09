@@ -27,9 +27,9 @@ Vou disponibilizara alguns materiais teóricos sobre neurociência. Não acredit
 
 ## Outras Referências
 ### Curso USP
-Um curso da USP ministrado por [**Antônio C. Roque**](antonior@usp.br) disponibilizou no roteiro algumas referências bem interessantes. Estão logo abaixo 👇
+Um curso da USP [_5915756 - Introdução à Neurociência Computacional_](https://edisciplinas.usp.br/pluginfile.php/7684114/mod_resource/content/1/Roteiro%20-%20Introduc%CC%A7a%CC%83o%20a%CC%80%20Neurocie%CC%82ncia%20Computacional%202023.pdf) ministrado por [**Antônio C. Roque**](antonior@usp.br) disponibilizou no roteiro algumas referências bem interessantes. Estão logo abaixo 👇
 
-####Bibliografia
+#### Bibliografia
 - Miller, P., An Introductory Course in Computational Neuroscience. MIT Press, Cambridge, MA, USA, 2018. Códigos para as figuras e tutoriais do livro disponíveis em: http://people.brandeis.edu/~pmiller/TEXTBOOK/.
 
 - Gerstner, W., Kistler, W. M., Naud, R., and Paninski, L., Neuronal Dynamics: from single
